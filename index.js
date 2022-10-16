@@ -1,11 +1,6 @@
 const http = require('http');
-const cors = require("cors");
 const app = require('./app');
 
-app.use(
-  cors({
-  origin:"http://localhost:3000",
-}));
 const normalizePort = val => {
   const port = parseInt(val, 10);
 
