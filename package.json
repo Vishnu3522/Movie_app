@@ -7,6 +7,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.6.5",
     "nodemon": "^2.0.20",
-    "react-router": "^6.4.2"
+    "react-router": "^6.4.2",
+    "universal-cookie": "^4.0.4"
   }
 }
